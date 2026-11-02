@@ -5,11 +5,13 @@
 
 #### 로컬 LLM · 추론
 
+텔레그램 봇 풀을 등록해 두면 원격 제어가 완벽하게 지원되며, 이미지 인식 기능까지 제공됩니다. 특히 이미지 식별 성능이 매우 뛰어납니다.
 | | |
 |---|---|
-| [**codemason**](https://github.com/AmesianX/codemason) | 로컬 LLM으로 도는 터미널 코딩 에이전트 CLI (Rust) |
-| [codemason-py](https://github.com/AmesianX/codemason-py) | 같은 구현의 Python 판 |
-| [**dspark-serve**](https://github.com/AmesianX/dspark-serve) | GLM-5.3-Flash EXL3 를 DGX Spark 2노드 vLLM 으로 서빙 (TP=2, 512K) |
+| [**codemason**](https://github.com/AmesianX/codemason) | 로컬 LLM으로 도는 터미널 코딩 에이전트 CLI (Rust) / 체감 성능 클로드 코드 오퍼스 4.8 급 |
+| [codemason-py](https://github.com/AmesianX/codemason-py) | 같은 구현의 Python 판 / 체감 성능 클로드 코드 오퍼스 4.8 급 |
+| [**dspark-serve**](https://github.com/AmesianX/dspark-serve) | GLM-5.3-Flash EXL3 를 DGX Spark 2노드 vLLM 으로 서빙 (TP=2, 512K) / 체감 성능 클로드 코드 오퍼스 4.8 급 |
+|---|터보퀀트 구현은 아쉽게도 최종 실패작입니다. 구현은 어느정도 되어있으나 llama.cpp 엔진의 한계에 봉착하여 폐기함|
 | [**TurboQuant**](https://github.com/AmesianX/TurboQuant) | llama.cpp KV 캐시 압축 — 메모리 5.2배 |
 
 #### 사설 5G
