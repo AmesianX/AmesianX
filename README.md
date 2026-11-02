@@ -31,6 +31,6 @@
 | | |
 |---|---|
 | [**amesianx-proxy**](https://github.com/AmesianX/amesianx-proxy) | 바이너리 프로토콜 분석용 범용 인터셉팅 프록시 |
-| [softwire](https://github.com/AmesianX/softwire) | 버텍스 셰이더를 에뮬레이션하는 명령어 어셈블러 |
+| [softwire](https://github.com/AmesianX/softwire) | 버텍스 셰이더를 에뮬레이션하는 명령어 어셈블러 (지켜야 할 고전 유산이라고 생각해서 오래전부터 모아 둔 것) |
 
 <sub>보안·기술 뉴스와 공개 PoC 를 한국어로 모으는 곳 — <a href="https://powerhacker.net">powerhacker.net</a></sub>
