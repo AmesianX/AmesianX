@@ -26,7 +26,7 @@ DeepSeek 4.0 Flash에서 고질적으로 발생하던 반복 증상을 GLM 5.3 F
 
 | | |
 |---|---|
-| [**private-5g-lab**](https://github.com/AmesianX/private-5g-lab) | 사설 5G SA 랩 — Open5GS + IMS(VoNR) + srsRAN/B210, 실물 단말 검증 |
+| [**private-5g-lab**](https://github.com/AmesianX/private-5g-lab) | 사설 5G SA 랩 — Open5GS + IMS(VoNR) + srsRAN/B210, 실물 단말 검증 / 핸드폰에 직접 전화걸기(통화) 성공 |
 | [**local-5g-handbook**](https://github.com/AmesianX/local-5g-handbook) | 로컬 5G 망 구축하기 — 해커를 위한 이동통신 실무서 |
 
 #### 취약점 연구
